@@ -99,4 +99,3 @@ pip install numpy pandas matplotlib seaborn
 - Integration of machine learning models for price prediction.
 - Real-time stock data streaming using APIs (e.g., Alpha Vantage or Yahoo Finance).
 - Addition of interactive dashboards with Plotly or Dash.
-
